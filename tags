@@ -1,0 +1,5 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+.DEFAULT_GOAL	/Users/pbashyal/bioinformatics/gl_lint/Makefile	/^.DEFAULT_GOAL := help$/;"	m	language:Make
+BROWSER	/Users/pbashyal/bioinformatics/gl_lint/Makefile	/^BROWSER := python -c "$$BROWSER_PYSCRIPT"$/;"	m	language:Make
+BROWSER_PYSCRIPT	/Users/pbashyal/bioinformatics/gl_lint/Makefile	/^define BROWSER_PYSCRIPT$/;"	m	language:Make
+PRINT_HELP_PYSCRIPT	/Users/pbashyal/bioinformatics/gl_lint/Makefile	/^define PRINT_HELP_PYSCRIPT$/;"	m	language:Make
